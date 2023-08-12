@@ -1,0 +1,27 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/glitazone-p5-tablet---primary.py
+inputModule3:
+  class: File
+  path: python/glitazone-p5-500mg---primary.py
+inputModule4:
+  class: File
+  path: python/glitazone-p5-metformin---primary.py
+inputModule5:
+  class: File
+  path: python/glitazone-p5-1000mg---primary.py
+inputModule6:
+  class: File
+  path: python/glitazone-p5-avandamet---primary.py
+inputModule7:
+  class: File
+  path: python/glitazone-p5-avandia---primary.py
+inputModule8:
+  class: File
+  path: python/glitazone-p5-850mg---primary.py
+inputModule9:
+  class: File
+  path: python/output-cases.py
